@@ -40,6 +40,6 @@ To sign up for a new account, the user will be prompted to enter a username and 
 ## Log in to an existing account
 
 To log in to an existing account, the user will be prompted to enter their username and password. The password will be hashed using the SHA-256 algorithm and compared to the hashed password stored in the users table. If the login is successful, the user will be returned to the main menu with a message indicating that they are logged in. If the login is unsuccessful, the user will be prompted to try again.
-##Quit the application
+## Quit the application
 
 To quit the application, the user can select option 3 from the main menu.
